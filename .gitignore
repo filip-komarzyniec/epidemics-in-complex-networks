@@ -1,3 +1,5 @@
 twitch
 *.zip
 .ipynb_checkpoints
+images
+simulation_results
