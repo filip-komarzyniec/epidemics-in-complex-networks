@@ -3,3 +3,5 @@ twitch
 .ipynb_checkpoints
 images
 simulation_results
+facebook
+*.tar.gz
